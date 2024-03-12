@@ -1,5 +1,5 @@
 const ArticleList = () => {
-  return <div>글 리스트 테슷흐</div>;
+  return <div>ArticleList</div>;
 };
 
 export default ArticleList;
